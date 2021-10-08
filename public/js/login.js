@@ -48,7 +48,7 @@
                 url:  "../../../Controller/UsuarioController.php",
                 data: datos,
                 success:function(r){
-                    alert(r)
+                    //alert(r)
                     //SE ENVIA AL DASHBOARD SI LOS DATOS SON CORRECTOS
                     if(r == 1){
                         window.location.assign("../dashboard.php");
