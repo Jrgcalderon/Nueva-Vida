@@ -10,7 +10,7 @@
     require_once ($_SERVER['DOCUMENT_ROOT'].'/dirs.php');
     require_once (VIEW_PATH.'components/header.php');
     require_once (VIEW_PATH.'components/menu.php');
-    require_once (CONTROLLER_PATH.'solicitudController.php');
+    //require_once (CONTROLLER_PATH.'solicitudController.php');
     require_once (CONTROLLER_PATH.'SolicitudController.php');
     require_once (CONTROLLER_PATH.'ExamenController.php');
     require_once (CONTROLLER_PATH.'medicamentoController.php');
