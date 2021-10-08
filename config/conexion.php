@@ -6,7 +6,7 @@ Class Conexion
     private $db_host = 'db-mysql-nyc1-34677-do-user-9987715-0.b.db.ondigitalocean.com';
     private $db_name = 'asilosite';
     private $db_user = 'jorge';
-    private $db_pass = 'SAyS8fgkwzy2x7Ms';
+    private $db_pass = 'QHnUegY0iGzfo7sL';
     private $conn;
 
     public function __construct()
